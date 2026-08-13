@@ -10,7 +10,7 @@ Este perfil tem como objetivo registrar minha evolução nos estudos, atividades
 Atualmente, desenvolvo conhecimentos teóricos e práticos nas seguintes áreas:
 
 - Lógica de Programação  
-- Programação com JavaScript e Python  
+- Programação com Java, JavaScript e Python  
 - Banco de Dados (modelagem e conceitos fundamentais)  
 - UML (Linguagem de Modelagem Unificada)  
 - Git e GitHub (versionamento de código)  
